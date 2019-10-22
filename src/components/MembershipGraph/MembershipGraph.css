@@ -1,0 +1,13 @@
+.marginGraph {
+    margin-top: 5%;
+    margin-bottom: 50px;
+}
+
+.marginGraph span {
+    font-size: 1.0em;
+    margin-bottom: 10px;
+}
+
+.marginGraph h3 {
+    margin-bottom: 50px;
+}

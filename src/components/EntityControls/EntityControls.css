@@ -1,0 +1,18 @@
+.entityControlDiv {
+    margin-top: 200px;
+}
+
+.entityInputDiv{
+    display: flex;
+}
+
+.entityInputDiv input{
+    width: 200px;
+    margin-right: 20px;
+    display:inline-block;
+}
+
+.entityInputDiv Button {
+    margin-right: 20px;
+    width: 100px;
+}

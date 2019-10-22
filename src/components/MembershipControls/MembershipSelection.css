@@ -1,0 +1,12 @@
+.memberSelDiv{
+    margin-top: 50px;
+}
+
+.memberSelInputs {
+    display: flex;
+}
+
+.memberSelInputs Button {
+    margin-right: 20px;
+    width: 100px;
+}
