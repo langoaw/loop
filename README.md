@@ -27,11 +27,6 @@ If the tree was going to be wider I'd swap to BFS.
 Couldn't see any testing specified in the spec sheet, as such it currently only has the stubs for further testing.
 Can add in if required.
 
-### `Testing`
-
-Couldn't see any testing specified in the spec sheet, as such it currently only has the stubs for further testing.
-Can add in if required.
-
 ### `To use`
-Simply grab the repo and npm install then npm start.
+Simply grab the repo and npm install then start.
 
